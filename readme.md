@@ -23,4 +23,10 @@
 - Dichiariamo chi ha vinto.
 
 ## Tools
-- 
+- Prompt x2
+- parseInt
+- Math.random
+- Variables
+- Function
+- Condition
+- Alert
